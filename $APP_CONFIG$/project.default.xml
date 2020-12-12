@@ -1,0 +1,14 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="ComposerSettings">
+        <execution />
+      </component>
+      <component name="PhpProjectSharedConfiguration" php_language_level="7.4" />
+      <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.4" />
+      <component name="PropertiesComponent">
+        <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
+      </component>
+    </defaultProject>
+  </component>
+</application>
